@@ -1,0 +1,11 @@
+<resources>
+    <!-- Margins -->
+    <dimen name="margin_start">16dp</dimen>
+    <dimen name="margin_top">10dp</dimen>
+    <dimen name="margin_end">10dp</dimen>
+    <dimen name="margin_image">1dp</dimen>
+
+    <!-- Image sizes -->
+    <dimen name="image_width">120dp</dimen>
+    <dimen name="image_height">120dp</dimen>
+</resources>
